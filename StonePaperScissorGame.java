@@ -52,7 +52,7 @@ public class StonePaperScissorGame extends JFrame implements ActionListener {
 
     private JButton createStyledButton(String text) {
         JButton button = new JButton(text);
-        button.setBackground(Color.GRAY);
+        button.setBackground(Color.MAGENTA);
         button.setForeground(Color.WHITE);
         button.setFont(new Font("Arial", Font.BOLD, 16));
         return button;

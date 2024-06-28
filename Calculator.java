@@ -51,10 +51,10 @@ public class Calculator extends JFrame implements ActionListener {
             button.setFont(new Font("Arial", Font.BOLD, 16));
         }
 
-        delButton.setBackground(Color.ORANGE);
+        delButton.setBackground(Color.MAGENTA);
         delButton.setForeground(Color.WHITE);
 
-        clrButton.setBackground(Color.ORANGE);
+        clrButton.setBackground(Color.MAGENTA);
         clrButton.setForeground(Color.WHITE);
         
         
